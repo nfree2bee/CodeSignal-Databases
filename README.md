@@ -15,12 +15,12 @@
 5. [mischievousNephews](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/mischievousNephews.sql)
 
 ## Would you LIKE the Second Meal?
-1. [suspectsInvestigation]
-2. [suspectsInvestigation2]
-3. [securityBreach]
-4. [testCheck]
-5. [expressionsVerification]
-6. [newsSubscribers]
+1. [suspectsInvestigation](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/suspectsInvestigation.sql)
+2. [suspectsInvestigation2](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/suspectsInvestigation2.sql)
+3. [securityBreach](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/securityBreach.sql)
+4. [testCheck](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/testCheck.sql)
+5. [expressionsVerification](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/expressionsVerification.sql)
+6. [newsSubscribers](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/newsSubscribers.sql)
 
 ## GROUP Dishes BY Type
 1. [countriesInfo]
