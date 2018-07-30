@@ -10,9 +10,9 @@
 ## Always Leave Table in ORDER
 1. [volleyballResults](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/volleyballResults.sql)
 2. [mostExpensive](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/mostExpensive.sql)
-3. [contestLeaderboard]
-4. [gradeDistribution]
-5. [mischievousNephews]
+3. [contestLeaderboard](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/contestLeaderboard.sql)
+4. [gradeDistribution](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/gradeDistribution.sql)
+5. [mischievousNephews](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Always%20Leave%20Table%20in%20ORDER/mischievousNephews.sql)
 
 ## Would you LIKE the Second Meal?
 1. [suspectsInvestigation]
