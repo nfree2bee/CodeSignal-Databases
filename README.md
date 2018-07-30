@@ -23,11 +23,11 @@
 6. [newsSubscribers](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/Would%20you%20LIKE%20the%20Second%20Meal/newsSubscribers.sql)
 
 ## GROUP Dishes BY Type
-1. [countriesInfo]
-2. [itemCounts]
-3. [usersByContinent]
-4. [movieDirectors]
-5. [travelDiary]
-6. [soccerPlayers]
-7. [marketReport]
+1. [countriesInfo](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/countriesInfo.sql)
+2. [itemCounts](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/itemCounts.sql)
+3. [usersByContinent](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/usersByContinent.sql)
+4. [movieDirectors](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/movieDirectors.sql)
+5. [travelDiary](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/travelDiary.sql)
+6. [soccerPlayers](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/soccerPlayers.sql)
+7. [marketReport](https://github.com/nfree2bee/CodeSignal-Databases/blob/master/GROUP%20dishes%20BY%20Type/marketReport.sql)
 
